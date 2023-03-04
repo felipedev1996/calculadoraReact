@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/calculadoraReact.git/static/css/main.ccbf13cb.css",
+    "main.js": "/calculadoraReact.git/static/js/main.cb58eb5b.js",
+    "static/media/logo-felipe.PNG": "/calculadoraReact.git/static/media/logo-felipe.cd092124b9fa1652fa89.PNG",
+    "index.html": "/calculadoraReact.git/index.html",
+    "main.ccbf13cb.css.map": "/calculadoraReact.git/static/css/main.ccbf13cb.css.map",
+    "main.cb58eb5b.js.map": "/calculadoraReact.git/static/js/main.cb58eb5b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccbf13cb.css",
+    "static/js/main.cb58eb5b.js"
+  ]
+}
