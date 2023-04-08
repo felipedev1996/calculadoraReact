@@ -2,7 +2,7 @@
 
 ![Calculadora](./src//img/calculadora-react.PNG)
 
-### Deploy in 
+### Deployed in 
 [calculadora-react.onrender.com](https://calculadora-react.onrender.com/)
 
 ## *Configuration* 
