@@ -14,7 +14,7 @@ $ npm install
 ~~~
 $ npm start
 ~~~
-#### *Package for deploy* 
+#### *Create dist Package for deploy* 
 ~~~
 $ npm run build
 ~~~
