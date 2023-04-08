@@ -2,7 +2,7 @@
 
 ![Calculadora](./src//img/calculadora-react.PNG)
 
-- ***Proyecto creado con React 
+- _Proyecto creado con React 
 
 ### Deployed in 
 [calculadora-react.onrender.com](https://calculadora-react.onrender.com/)
